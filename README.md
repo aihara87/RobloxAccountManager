@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Roblox Account Manager
 
 A Python-based CLI application for managing multiple Roblox accounts with browser automation and session persistence using Playwright.
