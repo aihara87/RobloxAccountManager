@@ -242,4 +242,3 @@ Jika ada masalah atau pertanyaan, silakan buat issue di repository ini.
 **Disclaimer**: Aplikasi ini dibuat untuk tujuan edukasi dan manajemen akun yang legitimate. Pastikan penggunaan sesuai dengan kebijakan dan Terms of Service Roblox. Developer tidak bertanggung jawab atas penyalahgunaan tools ini.
 =======
 # RobloxAccountManager
->>>>>>> d0116349b3fe3afebcd1bb846eeb39e2a340dccb
